@@ -47,12 +47,12 @@ The user enters the desired state and shape at the same time and observed the ch
 
 
 ## Summary
-
+**Observations**
 One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis.
 
-A way to address this would be to present drop-down lists including all filter values in place of the input fields.
-Each list would need to update after a parameter is selected in any filter.
-Including a button to clear the filters is also needed. The button would be located below the last filter.
+**Suggestions**
+1. A way to address above would be to present drop-down lists including all filter values in place of the input fields. Each list would need to update after a parameter is selected in any filter.
+2. Including a button to clear the filters is also needed. The button would be located below the last filter.
 
 
 ### *Appendix*- 
