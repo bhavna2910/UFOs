@@ -48,6 +48,7 @@ The user enters the desired state and shape at the same time and observed the ch
 
 ## Summary
 **Observations**
+
 One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis.
 
 **Suggestions**
