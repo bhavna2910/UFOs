@@ -36,12 +36,15 @@ The user enters the desired country, the change is detected and the table is upd
 
 **Filtering by Shape**
 
+The user enters the desired country, the change is detected and the table is updated accordingly.
+![Shape](https://github.com/bhavna2910/UFOs/blob/main/screenshots/filter-by-shape.png))
+
+**Filtering on Multiple Selections**
+
+The user enters the desired state and shape at the same time and observed the changes are detected and the table is updated accordingly, confirming all filter parameters can be entered simultaneously.
+![Multiple](https://github.com/bhavna2910/UFOs/blob/main/screenshots/filter-by-multiple.png)
 
 
-The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
-
-
-All filter parameters can be entered simultaneously.
 
 ## Summary
 
