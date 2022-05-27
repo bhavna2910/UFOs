@@ -11,7 +11,7 @@ The deployed webpage is accessible at https://bhavna2910.github.io/UFOs/
 ### Search Criteria Procedure
 **Index page**
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
-
+![Test](https://github.com/bhavna2910/UFOs/blob/main/screenshots/Page-upon-Loading.png)
 
 **Filtering by Event Date**
 The user enters the desired date, the change is detected and the table is updated accordingly.
