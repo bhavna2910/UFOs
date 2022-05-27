@@ -37,7 +37,7 @@ The user enters the desired country, the change is detected and the table is upd
 **Filtering by Shape**
 
 The user enters the desired country, the change is detected and the table is updated accordingly.
-![Shape](https://github.com/bhavna2910/UFOs/blob/main/screenshots/filter-by-shape.png))
+![Shape](https://github.com/bhavna2910/UFOs/blob/main/screenshots/filter-by-shape.png)
 
 **Filtering on Multiple Selections**
 
