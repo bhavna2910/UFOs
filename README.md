@@ -10,22 +10,34 @@ The deployed webpage is accessible at https://bhavna2910.github.io/UFOs/
 
 ### Search Criteria Procedure
 **Index page**
+
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 ![Full Page](https://github.com/bhavna2910/UFOs/blob/main/screenshots/Page-upon-Loading.png)
 
 **Filtering by Event Date**
+
 The user enters the desired date, the change is detected and the table is updated accordingly.
 ![Date](https://github.com/bhavna2910/UFOs/blob/main/screenshots/Filter-by-date.png)
 
 **Filtering by City**
+
 The user enters the desired city, the change is detected and the table is updated accordingly.
 ![City](https://github.com/bhavna2910/UFOs/blob/main/screenshots/Filter-by-city.png)
 
+**Filtering by State**
+
+The user enters the desired state, the change is detected and the table is updated accordingly.
+![State](https://github.com/bhavna2910/UFOs/blob/main/screenshots/Filter-by-state.png)
+
 **Filtering by Country**
+
 The user enters the desired country, the change is detected and the table is updated accordingly.
 ![Country](https://github.com/bhavna2910/UFOs/blob/main/screenshots/filter-by-country.png)
 
-**Filtering by State and Shape**
+**Filtering by Shape**
+
+
+
 The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
 
 
